@@ -1,8 +1,18 @@
 body{
      background-color: slategrey;
-     color:aliceblue
-     font-family
+     color:aliceblue;
+     font-family: "Bai jamjuree", sans serif;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     height: 700px;
+     margin: 0%;
 
+}
 
+button{
 
+     background-color: cadetblue;
+     color: aliceblue;
+     font-family: "Bai Jamjuree", sans-serif;
 }
